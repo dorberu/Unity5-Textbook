@@ -1,0 +1,14 @@
+using UnityEngine;
+using System.Collections;
+
+public class Test : MonoBehaviour {
+
+    void Start() {
+        int hp = 200;
+        if(hp >= 100) {
+            Debug.Log("çUåÇÅI");
+        } else {
+            Debug.Log("ñhå‰ÅI");
+        }
+    }
+}

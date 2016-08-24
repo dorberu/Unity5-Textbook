@@ -1,0 +1,11 @@
+using UnityEngine;
+using System.Collections;
+
+public class Test : MonoBehaviour {
+
+    void Start() {
+        string name;
+        name = "kitamura";
+        Debug.Log(name);
+    }
+}
