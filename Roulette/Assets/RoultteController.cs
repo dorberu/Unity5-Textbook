@@ -12,12 +12,6 @@ public class RoultteController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		foreach (Touch touch in Input.touches) {
-			if (touch.phase == TouchPhase.Stationary) {
-				this.rotSpeed = 100.0f;
-			}
-		}
-
 		if (Input.GetMouseButtonDown(0)) {
 			this.rotSpeed = 100.0f;
 		}
