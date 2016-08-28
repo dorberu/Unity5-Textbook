@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameDirector.cs">
+    <Files>
+      <File FileName="Assets\BasketController.cs" Line="35" Column="55" />
+      <File FileName="Assets\ItemController.cs" Line="17" Column="14" />
+      <File FileName="Assets\ItemGenerator.cs" Line="40" Column="22" />
+      <File FileName="Assets\GameDirector.cs" Line="33" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
