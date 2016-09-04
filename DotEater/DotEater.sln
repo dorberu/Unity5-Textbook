@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{01567DDE-30C2-647D-8FD9-54AD0A1F1CB3}") = "DotEater", "Assembly-CSharp.csproj", "{A8B4269D-F480-EA58-1588-AFECF7A3199B}"
+EndProject
+Project("{01567DDE-30C2-647D-8FD9-54AD0A1F1CB3}") = "DotEater", "Assembly-CSharp-Editor.csproj", "{BB99946F-BB4E-72BB-E377-F3ADE3754E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B4269D-F480-EA58-1588-AFECF7A3199B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B4269D-F480-EA58-1588-AFECF7A3199B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B4269D-F480-EA58-1588-AFECF7A3199B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B4269D-F480-EA58-1588-AFECF7A3199B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB99946F-BB4E-72BB-E377-F3ADE3754E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB99946F-BB4E-72BB-E377-F3ADE3754E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB99946F-BB4E-72BB-E377-F3ADE3754E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB99946F-BB4E-72BB-E377-F3ADE3754E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
